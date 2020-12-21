@@ -1,11 +1,11 @@
 .page-header {
-    background-color: #a34e57;
+    background-color: #941a26;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
-    color: #098555;
+    color: #1c1f1e;
     font-size: 37pt;
     text-decoration: none;
 }
@@ -15,7 +15,7 @@
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Marker Felt', fantasy;
+    font-family: 'Arial Bolt', cursive;
 }
 
 .date {
@@ -42,13 +42,27 @@ h1, h2, h3, h4 {
 }
 
 .post h1 a, .post h1 a:visited {
-    color: #13d1b8bd;
+    color: rgb(184, 236, 214);
+    margin-right: 13px;
+    background-image: url(https://www.wallpapertip.com/wmimgs/4-42891_dark-anonymous-wallpaper-4k.jpg);
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: box-shadow .5s;
+    font-weight: bold;
+    
+
+    
+
+    
 }
 body{
-    background-image: url(https://c4.wallpaperflare.com/wallpaper/529/555/624/mask-neon-person-photography-wallpaper-preview.jpg);
+    background-image: url(https://i.redd.it/t3avh975kzm41.jpg);
 }
 p{
-    color: #c9aa9f;
+    color: #9191aa;
+    background-image: url(https://www.wallpapertip.com/wmimgs/4-42891_dark-anonymous-wallpaper-4k.jpg);
     font-size: 15pt;
-    font-family: 'Comic Sans MS', cursive;
+    font-family: 'Arial Bolt', fantasy;
 }
